@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_text">Welcome to ALC 4.0</string>
+    <string name="about_alc_btn_text">ABOUT ALC</string>
+    <string name="my_profile_text">MY PROFILE</string>
+    <string name="track">Track:    Android</string>
+    <string name="country">Country:   Nigeria</string>
+    <string name="email">Email:    emmanuelcookey744@gmail.com</string>
+    <string name="phone_no">Phone Number:    2348134959703</string>
+    <string name="slack_user">Slack Username:   @Emmanuel Cookey</string>
+    <string name="full_name">Emmanuel Cookey</string>
+</resources>
